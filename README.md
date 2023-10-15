@@ -1,2 +1,2 @@
 # my_web
-[research](/research.html)
+[research]({{ site.baseurl }}/research.html)
