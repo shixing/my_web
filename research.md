@@ -1,3 +1,8 @@
+---
+layout: default
+title: research
+---
+
 ## Research Interests
 Theoretical and empirical corporate finance and entrepreneurial finance with primary focus on: Venture Capital, Corporate Innovation, Mergers and Acquisitions, Labor, and Payout Policy.
 

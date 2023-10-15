@@ -1,5 +1,6 @@
 ---
 layout: default
+title: Xuan Tian
 ---
 
 <p align="center">
